@@ -2,5 +2,7 @@ In a time where deep learning has become a key data analysis method due to the n
 
 Taking advantage of all these new techniques, the goal is to classify political discourses and find semantic relationships between different candidates via Convolutional Neural Network (CNN) using a vector representation model of words (Word2Vec). The CNNs are responsible for all the major breakthroughs in Image Classification and Computer Vision and, it has been proved a simple CNN with little tuning achieves excellent results on multiple benchmarks of sentence-level classification tasks.
 
-Deep learning models were applied within NLP in the linguistic analysis of political discourses from candidates in the
-USA 2016 National elections and the France 2017 National elections. This work was done while working closely with a linguistic team, Laurent Vanni and Mélanie Ducoffe, from the Université Sophia-Nice Antipolis and with our supervisor Profr. Frédéric Precioso, from the Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) at Polytech Nice-Sophia.
+Deep learning models were applied within NLP in the linguistic analysis of political discourses from candidates in the USA 2016 National elections and the France 2017 National elections. This work was done while working closely with a linguistic team, Laurent Vanni and Mélanie Ducoffe, from the Université Sophia-Nice Antipolis and with our supervisor Profr. Frédéric Precioso, from the Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) at Polytech Nice-Sophia.
+
+Core paper:
+[Convolutional Neural Networks for Sentence Classification by Yoon Kim] (https://arxiv.org/abs/1408.5882)
