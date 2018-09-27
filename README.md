@@ -4,5 +4,8 @@ Taking advantage of all these new techniques, the goal is to classify political 
 
 Deep learning models were applied within NLP in the linguistic analysis of political discourses from candidates in the USA 2016 National elections and the France 2017 National elections. This work was done while working closely with a linguistic team, Laurent Vanni and Mélanie Ducoffe, from the Université Sophia-Nice Antipolis and with our supervisor Profr. Frédéric Precioso, from the Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis (I3S) at Polytech Nice-Sophia.
 
-Core paper:
+This research led to the following paper:
+[Text Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis](https://hal.archives-ouvertes.fr/hal-01804310/document)
+
+Original core paper:
 [Convolutional Neural Networks for Sentence Classification by Yoon Kim](https://arxiv.org/abs/1408.5882)
