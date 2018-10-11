@@ -9,3 +9,6 @@ This research led to the following paper:
 
 Original core paper:
 [Convolutional Neural Networks for Sentence Classification by Yoon Kim](https://arxiv.org/abs/1408.5882)
+
+Repository:
+[Source code](https://github.com/juanmangh/FrenchCandidateSpeechAnalysis)
